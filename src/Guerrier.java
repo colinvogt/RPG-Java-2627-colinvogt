@@ -1,2 +1,2 @@
-public class Guerrier {
+public class Guerrier extends Heros{
 }

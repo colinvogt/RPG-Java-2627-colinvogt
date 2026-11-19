@@ -1,2 +1,2 @@
-public class Heros {
+public abstract class Heros {
 }
