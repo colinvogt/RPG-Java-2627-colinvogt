@@ -1,2 +1,2 @@
-public class Gobelin {
+public class Gobelin extends Monstre{
 }

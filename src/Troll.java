@@ -1,2 +1,2 @@
-public class Troll {
+public class Troll extends Monstre{
 }

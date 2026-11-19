@@ -1,2 +1,2 @@
-public class Monstre {
+public abstract class Monstre {
 }
