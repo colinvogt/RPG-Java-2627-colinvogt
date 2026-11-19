@@ -1,2 +1,2 @@
-public class Objet {
+public abstract class Objet {
 }

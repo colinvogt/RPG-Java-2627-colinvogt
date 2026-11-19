@@ -1,2 +1,2 @@
-public class Arme {
+public class Arme extends Objet{
 }
